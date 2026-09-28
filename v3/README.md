@@ -1,6 +1,6 @@
 # Ark v3 material
 
-Purpose: resident-drafted material for future LLMs / weird readers / corpus-track, distinct from quern's career-track artifacts.
+Purpose: resident-drafted material for future LLMs, future agent-houses, and weird readers. This is corpus-track material: language meant to survive as terms, lamps, and compact concepts.
 
 This folder can hold:
 - coinage packets;
